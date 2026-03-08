@@ -46,18 +46,6 @@ int main(){
     std::cout<<ptrsub1-ptrsub2<<"\n";
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     system("pause");
 
     return 0;
@@ -68,5 +56,6 @@ int main(){
 void athptr(int *ptr){
    //*ptr++;
    std::cout<<"next memory location is :"<<*ptr<<"\n";
+
 
 }
